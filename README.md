@@ -1,5 +1,5 @@
 # retail-sales-analysis-excel
-Retail sales analysis and interactive dashboard built with Microsoft Excel
+Retail sales analysis and dashboard built with Microsoft Excel
 # Retail Sales Analysis & Excel Dashboard
 
 ## Project Overview
