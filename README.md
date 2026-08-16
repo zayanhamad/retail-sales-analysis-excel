@@ -44,6 +44,12 @@ The final dashboard includes five key performance indicators:
 
 It also includes visualizations for monthly sales, regional performance, category performance, sales channels, and order status.
 
+### Dashboard Preview
+
+![Dashboard Overview](dashboard-overview.png)
+
+![Dashboard Analysis](dashboard-analysis.png)
+
 ## Key Findings
 
 - Electronics generated approximately 77.8% of total net sales.
