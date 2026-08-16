@@ -48,7 +48,7 @@ It also includes visualizations for monthly sales, regional performance, categor
 
 ![Dashboard Overview](dashboard-overview.png)
 
-![Dashboard Analysis](dashboard-analysis.png)
+![Dashboard Analysis](dashboard-overview2.png)
 
 ## Key Findings
 
